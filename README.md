@@ -8,7 +8,7 @@ En este proyecto analicé y diseñé pruebas para aplicaciones Web, móviles y A
 
 • Estudio de la documentación de la aplicación en cada tarea. 
 • Creación de un mapa mental para visualizar los requisitos. 
-• Divición de las funciones en bloques atómicos y definición de objetos de prueba.
+• División de las funciones en bloques atómicos y definición de objetos de prueba.
 • Diseño de pruebas para cubrir todos los requisitos. Aplicando clases de equivalencia y valores límite.
 • Optimización del número de pruebas en las pruebas de UI y las pruebas lógicas de las funciones.
 • Ejecución pruebas y realización de informes de errores.
